@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2026-01-16",
+    "reported_value_myr": 30000.00,
+    "total_invested_myr": 30000.00,
+    "note": "Placeholder — active portfolio data not yet available. Value set to invested amount (0% return).",
+    "source_url": ""
+  },
+  {
+    "date": "2026-01-22",
+    "reported_value_myr": 55000.00,
+    "total_invested_myr": 55000.00,
+    "note": "Placeholder — active portfolio data not yet available. Value set to invested amount (0% return).",
+    "source_url": ""
+  },
+  {
+    "date": "2026-01-27",
+    "reported_value_myr": 87000.00,
+    "total_invested_myr": 87000.00,
+    "note": "Placeholder — active portfolio data not yet available. Value set to invested amount (0% return).",
+    "source_url": ""
+  },
+  {
+    "date": "2026-03-09",
+    "reported_value_myr": 100900.00,
+    "total_invested_myr": 100900.00,
+    "note": "Placeholder — active portfolio data not yet available. Value set to invested amount (0% return).",
+    "source_url": ""
+  }
+]

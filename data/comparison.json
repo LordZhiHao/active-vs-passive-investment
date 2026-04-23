@@ -1,0 +1,567 @@
+{
+  "generated_at": "2026-04-23T14:21:55Z",
+  "start_date": "2026-01-16",
+  "all_tranches_deployed_date": "2026-03-09",
+  "days_elapsed": 97,
+  "purchase_fx_rate": 4.03,
+  "live_usd_myr": 3.962,
+  "passive": {
+    "total_invested_myr": 100900.0,
+    "total_invested_usd": 25037.2208,
+    "current_value_myr": 102156.12,
+    "return_pct": 1.2449,
+    "annualised_return_pct": 4.7656,
+    "fx_gain_myr": -1702.53,
+    "voo_allocation": 0.5,
+    "vt_allocation": 0.5,
+    "webull_fees_total_usd": 5.758561
+  },
+  "active": {
+    "total_invested_myr": 100900.0,
+    "current_value_myr": 100900.0,
+    "return_pct": 0.0,
+    "annualised_return_pct": 0.0,
+    "last_reported_date": "2026-03-09",
+    "is_stale": true
+  },
+  "delta_pct": 1.2449,
+  "winner": "passive",
+  "history": [
+    {
+      "date": "2026-01-16",
+      "days_since_start": 0,
+      "passive_return_pct": 0.5228,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 30156.83,
+      "active_value_myr": 30000.0
+    },
+    {
+      "date": "2026-01-20",
+      "days_since_start": 4,
+      "passive_return_pct": -1.3476,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 29595.73,
+      "active_value_myr": 30000.0
+    },
+    {
+      "date": "2026-01-21",
+      "days_since_start": 5,
+      "passive_return_pct": -0.2164,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 29935.07,
+      "active_value_myr": 30000.0
+    },
+    {
+      "date": "2026-01-22",
+      "days_since_start": 6,
+      "passive_return_pct": 0.214,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 55117.72,
+      "active_value_myr": 55000.0
+    },
+    {
+      "date": "2026-01-23",
+      "days_since_start": 7,
+      "passive_return_pct": 0.1702,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 55093.62,
+      "active_value_myr": 55000.0
+    },
+    {
+      "date": "2026-01-26",
+      "days_since_start": 10,
+      "passive_return_pct": -0.2115,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 54883.67,
+      "active_value_myr": 55000.0
+    },
+    {
+      "date": "2026-01-27",
+      "days_since_start": 11,
+      "passive_return_pct": -0.9967,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 86132.87,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-01-28",
+      "days_since_start": 12,
+      "passive_return_pct": -1.4382,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 85748.76,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-01-29",
+      "days_since_start": 13,
+      "passive_return_pct": -2.3775,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 84931.57,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-01-30",
+      "days_since_start": 14,
+      "passive_return_pct": -2.7468,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 84610.3,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-02",
+      "days_since_start": 17,
+      "passive_return_pct": -1.8872,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 85358.16,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-03",
+      "days_since_start": 18,
+      "passive_return_pct": -1.9234,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 85326.62,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-04",
+      "days_since_start": 19,
+      "passive_return_pct": -3.1365,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 84271.23,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-05",
+      "days_since_start": 20,
+      "passive_return_pct": -4.3355,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 83228.09,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-06",
+      "days_since_start": 21,
+      "passive_return_pct": -1.9674,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 85288.32,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-09",
+      "days_since_start": 24,
+      "passive_return_pct": -1.3511,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 85824.51,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-10",
+      "days_since_start": 25,
+      "passive_return_pct": -2.0182,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 85244.16,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-11",
+      "days_since_start": 26,
+      "passive_return_pct": -2.0164,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 85245.73,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-12",
+      "days_since_start": 27,
+      "passive_return_pct": -3.6283,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 83843.39,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-13",
+      "days_since_start": 28,
+      "passive_return_pct": -3.7796,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 83711.73,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-17",
+      "days_since_start": 32,
+      "passive_return_pct": -3.7744,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 83716.3,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-18",
+      "days_since_start": 33,
+      "passive_return_pct": -3.2955,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 84132.9,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-19",
+      "days_since_start": 34,
+      "passive_return_pct": -3.4043,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 84038.29,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-20",
+      "days_since_start": 35,
+      "passive_return_pct": -2.5461,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 84784.85,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-23",
+      "days_since_start": 38,
+      "passive_return_pct": -3.6081,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 83860.94,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-24",
+      "days_since_start": 39,
+      "passive_return_pct": -3.2101,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 84207.21,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-25",
+      "days_since_start": 40,
+      "passive_return_pct": -2.3362,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 84967.48,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-26",
+      "days_since_start": 41,
+      "passive_return_pct": -2.8466,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 84523.5,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-02-27",
+      "days_since_start": 42,
+      "passive_return_pct": -3.4141,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 84029.72,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-03-02",
+      "days_since_start": 45,
+      "passive_return_pct": -3.5214,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 83936.38,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-03-03",
+      "days_since_start": 46,
+      "passive_return_pct": -4.0453,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 83480.58,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-03-04",
+      "days_since_start": 47,
+      "passive_return_pct": -2.8162,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 84549.89,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-03-05",
+      "days_since_start": 48,
+      "passive_return_pct": -3.7647,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 83724.73,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-03-06",
+      "days_since_start": 49,
+      "passive_return_pct": -4.7404,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 82875.85,
+      "active_value_myr": 87000.0
+    },
+    {
+      "date": "2026-03-09",
+      "days_since_start": 52,
+      "passive_return_pct": -3.7344,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 97131.96,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-10",
+      "days_since_start": 53,
+      "passive_return_pct": -3.4098,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 97459.54,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-11",
+      "days_since_start": 54,
+      "passive_return_pct": -4.474,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 96385.71,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-12",
+      "days_since_start": 55,
+      "passive_return_pct": -6.2291,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 94614.8,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-13",
+      "days_since_start": 56,
+      "passive_return_pct": -6.5839,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 94256.86,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-16",
+      "days_since_start": 59,
+      "passive_return_pct": -5.1674,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 95686.07,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-17",
+      "days_since_start": 60,
+      "passive_return_pct": -5.0521,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 95802.48,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-18",
+      "days_since_start": 61,
+      "passive_return_pct": -6.5736,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 94267.25,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-19",
+      "days_since_start": 62,
+      "passive_return_pct": -6.5394,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 94301.78,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-20",
+      "days_since_start": 63,
+      "passive_return_pct": -8.109,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 92718.05,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-23",
+      "days_since_start": 66,
+      "passive_return_pct": -6.8421,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 93996.35,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-24",
+      "days_since_start": 67,
+      "passive_return_pct": -7.5654,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 93266.54,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-25",
+      "days_since_start": 68,
+      "passive_return_pct": -6.1401,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 94704.61,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-26",
+      "days_since_start": 69,
+      "passive_return_pct": -7.7068,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 93123.81,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-27",
+      "days_since_start": 70,
+      "passive_return_pct": -8.5737,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 92249.09,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-30",
+      "days_since_start": 73,
+      "passive_return_pct": -8.2853,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 92540.11,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-03-31",
+      "days_since_start": 74,
+      "passive_return_pct": -5.2676,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 95584.98,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-01",
+      "days_since_start": 75,
+      "passive_return_pct": -4.03,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 96833.72,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-02",
+      "days_since_start": 76,
+      "passive_return_pct": -4.6077,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 96250.84,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-06",
+      "days_since_start": 80,
+      "passive_return_pct": -4.0607,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 96802.74,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-07",
+      "days_since_start": 81,
+      "passive_return_pct": -4.0943,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 96768.84,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-08",
+      "days_since_start": 82,
+      "passive_return_pct": -1.2732,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 99615.33,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-09",
+      "days_since_start": 83,
+      "passive_return_pct": -2.1358,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 98744.96,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-10",
+      "days_since_start": 84,
+      "passive_return_pct": -2.0598,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 98821.63,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-13",
+      "days_since_start": 87,
+      "passive_return_pct": -1.1749,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 99714.51,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-14",
+      "days_since_start": 88,
+      "passive_return_pct": -0.1201,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 100778.82,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-15",
+      "days_since_start": 89,
+      "passive_return_pct": -0.3153,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 100581.89,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-16",
+      "days_since_start": 90,
+      "passive_return_pct": 0.1039,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 101004.87,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-17",
+      "days_since_start": 91,
+      "passive_return_pct": 1.383,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 102295.43,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-20",
+      "days_since_start": 94,
+      "passive_return_pct": 1.1272,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 102037.31,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-21",
+      "days_since_start": 95,
+      "passive_return_pct": 0.0881,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 100988.86,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-22",
+      "days_since_start": 96,
+      "passive_return_pct": 1.2449,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 102156.15,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-04-23",
+      "days_since_start": 97,
+      "passive_return_pct": 1.2449,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 102156.12,
+      "active_value_myr": 100900.0
+    }
+  ]
+}
