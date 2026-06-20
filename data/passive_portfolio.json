@@ -2150,5 +2150,31 @@
         "units_added": 0.308213
       }
     ]
+  },
+  {
+    "date": "2026-06-18",
+    "voo_price_usd": 688.11,
+    "vt_price_usd": 157.66,
+    "live_usd_myr": 4.134,
+    "voo_units": 19.713617,
+    "vt_units": 86.928139,
+    "voo_cost_usd": 12518.6104,
+    "vt_cost_usd": 12518.6104,
+    "webull_fee_usd": 5.758561,
+    "total_invested_myr": 100900.0,
+    "total_invested_usd": 25037.2208,
+    "voo_value_myr": 56078.27,
+    "vt_value_myr": 56656.84,
+    "total_value_myr": 112735.12,
+    "return_myr": 11835.12,
+    "return_pct": 11.7295,
+    "tranches_deployed": 4,
+    "dividends": [
+      {
+        "date": "2026-06-18",
+        "vt_dividend_usd": 48.766398,
+        "units_added": 0.309314
+      }
+    ]
   }
 ]
