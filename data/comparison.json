@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-23T02:18:23Z",
+  "generated_at": "2026-07-24T02:11:43Z",
   "start_date": "2026-01-16",
   "all_tranches_deployed_date": "2026-03-09",
-  "days_elapsed": 188,
+  "days_elapsed": 189,
   "purchase_fx_rate": 4.03,
-  "live_usd_myr": 4.086,
+  "live_usd_myr": 4.093,
   "passive": {
     "total_invested_myr": 100900.0,
     "total_invested_usd": 25037.2208,
-    "current_value_myr": 110756.65,
-    "return_pct": 9.7687,
-    "annualised_return_pct": 19.8364,
-    "fx_gain_myr": 1402.08,
+    "current_value_myr": 109658.58,
+    "return_pct": 8.6805,
+    "annualised_return_pct": 17.4401,
+    "fx_gain_myr": 1577.34,
     "voo_allocation": 0.5,
     "vt_allocation": 0.5,
     "webull_fees_total_usd": 5.758561
@@ -24,7 +24,7 @@
     "last_reported_date": "2026-03-09",
     "is_stale": true
   },
-  "delta_pct": 9.7687,
+  "delta_pct": 8.6805,
   "winner": "passive",
   "history": [
     {
@@ -1073,6 +1073,14 @@
       "passive_return_pct": 9.7687,
       "active_return_pct": 0.0,
       "passive_value_myr": 110756.65,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-07-23",
+      "days_since_start": 188,
+      "passive_return_pct": 8.6805,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 109658.58,
       "active_value_myr": 100900.0
     }
   ]
