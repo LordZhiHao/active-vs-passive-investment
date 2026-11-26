@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-25T06:41:02Z",
+  "generated_at": "2026-11-26T06:32:17Z",
   "start_date": "2026-01-16",
   "all_tranches_deployed_date": "2026-03-09",
-  "days_elapsed": 313,
+  "days_elapsed": 314,
   "purchase_fx_rate": 4.03,
   "live_usd_myr": 4.116,
   "passive": {
     "total_invested_myr": 100900.0,
     "total_invested_usd": 25037.2208,
-    "current_value_myr": 106543.11,
-    "return_pct": 5.5928,
-    "annualised_return_pct": 6.5518,
+    "current_value_myr": 106386.63,
+    "return_pct": 5.4377,
+    "annualised_return_pct": 6.3484,
     "fx_gain_myr": 2153.2,
     "voo_allocation": 0.5,
     "vt_allocation": 0.5,
@@ -24,7 +24,7 @@
     "last_reported_date": "2026-03-09",
     "is_stale": true
   },
-  "delta_pct": 5.5928,
+  "delta_pct": 5.4377,
   "winner": "passive",
   "history": [
     {
@@ -1785,6 +1785,14 @@
       "passive_return_pct": 5.5928,
       "active_return_pct": 0.0,
       "passive_value_myr": 106543.11,
+      "active_value_myr": 100900.0
+    },
+    {
+      "date": "2026-11-25",
+      "days_since_start": 313,
+      "passive_return_pct": 5.4377,
+      "active_return_pct": 0.0,
+      "passive_value_myr": 106386.63,
       "active_value_myr": 100900.0
     }
   ]
